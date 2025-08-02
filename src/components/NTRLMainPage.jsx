@@ -32,7 +32,7 @@ const NTRLMainPage = () => {
       description: "Premium grass-fed whey protein for muscle building and recovery",
       flavors: ["Vanilla Bean", "Chocolate Fudge", "Strawberry Cream", "Cookies & Cream"],
       image: wheyProteinImg,
-      price: "$49.99",
+      price: "₹7999",
       features: ["25g Protein", "Zero Sugar", "Grass-Fed", "Easy Mix"]
     },
     {
@@ -42,7 +42,7 @@ const NTRLMainPage = () => {
       description: "Complete plant-based protein blend for vegans and vegetarians",
       flavors: ["Chocolate", "Vanilla", "Berry Blast", "Unflavored"],
       image: plantProImg,
-      price: "$39.99",
+      price: "₹5499",
       features: ["22g Protein", "Organic", "Complete Amino", "Dairy-Free"]
     },
     {
@@ -52,7 +52,7 @@ const NTRLMainPage = () => {
       description: "Pure creatine monohydrate for strength and power enhancement",
       flavors: ["Unflavored", "Fruit Punch", "Blue Raspberry", "Lemon Lime"],
       image: creatineImg,
-      price: "$29.99",
+      price: "₹1699",
       features: ["5g Per Serving", "Micronized", "No Fillers", "Third-Party Tested"]
     },
     {
@@ -62,7 +62,7 @@ const NTRLMainPage = () => {
       description: "Essential amino acids for muscle recovery and endurance",
       flavors: ["Tropical", "Watermelon", "Grape", "Orange"],
       image: bcaaImg,
-      price: "$34.99",
+      price: "₹2299",
       features: ["2:1:1 Ratio", "Electrolytes", "Zero Calories", "Instant Mix"]
     },
     {
@@ -72,7 +72,7 @@ const NTRLMainPage = () => {
       description: "Clean energy and focus for intense training sessions",
       flavors: ["Wild Berry", "Green Apple", "Peach Mango", "Cotton Candy"],
       image: preworkoutImg,
-      price: "$44.99",
+      price: "₹1699",
       features: ["200mg Caffeine", "Beta-Alanine", "Citrulline", "No Crash"]
     }
   ];
